@@ -36,8 +36,6 @@ This section brings together the storage platforms and operational notes current
     Backup, snapshot, and quota notes for safer GPFS operations and disaster
     recovery planning.
 
-    [Open GPFS Backup Guide](gpfs/gpfs-backup.md)
-
 -   :material-server-network:{ .lg .middle }
 
     ---

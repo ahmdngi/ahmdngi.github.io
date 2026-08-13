@@ -181,7 +181,7 @@ nav:
           #- Quotas: content/storage/gpfs/gpfs-quotas.md # quotas and how to set them
           #- Backup: content/storage/gpfs/gpfs-backup.md # backup and restore
           - GPL: content/storage/gpfs/gpfs-gpl.md
-          #- CES: content/storage/gpfs/gpfs-ces.md
+          - CES: content/storage/gpfs/gpfs-ces.md
           - Hardware: content/storage/gpfs/gpfs-hardware.md
       - BeeGFS: content/storage/beegfs.md
       - TrueNAS Scale: content/storage/scale.md
@@ -201,7 +201,7 @@ nav:
       - PhD Tools: content/library/phd-tools.md
   - Cybersecurity:
       - Overview: content/cybersecurity/index.md
-      #- OSINT: content/cybersecurity/osint.md
+      - OSINT: content/cybersecurity/osint.md
       - Maritime OSINT Tools:
           - Vessels and Ports: content/cybersecurity/maritime_osint/vessel_and_port_tracking.md
           - Administrative and Regulatory: content/cybersecurity/maritime_osint/administrative_regulatory_intelligence.md
